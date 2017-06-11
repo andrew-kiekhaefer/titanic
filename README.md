@@ -1,2 +1,2 @@
-# titanic_kaggle
+# titanic
 Titanic kaggle prediction compeition
